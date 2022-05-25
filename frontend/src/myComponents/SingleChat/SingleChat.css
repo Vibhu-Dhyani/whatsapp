@@ -1,0 +1,105 @@
+.Initial{
+   
+    background-image: url('../../../Resources/talk/talk.png');
+    background-position: center;
+
+        background-repeat: no-repeat;
+        opacity: 70%;
+        background-size: cover;
+        height: 800px;
+        width: 700px;
+        margin-left: 10px;
+        margin-top: 20px;
+}
+
+
+.Initial > h2{
+margin-top: 750px;
+margin-left: 150px;
+color:#128C7E;
+
+}
+
+
+
+
+
+
+
+
+.msgpannel_header {
+    display: flex;
+    justify-content: space-between;
+    width: 740px;
+    height: 45px;
+    margin-right: 0px;
+    padding: 20px;
+    background-color: #ededed;
+    box-shadow: 10px -2px 35px -10px rgba(0, 0, 0, 0.9);
+}
+
+.msgpannel_header_right {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    min-width: 10vh;
+    height: 40px;
+}
+
+.msgpannel_header_profile {
+    display: flex;
+    flex: 1;
+
+}
+
+.msgpannel_header_profile_info>h6 {
+    margin-top: 5px;
+    margin-left: 20px;
+}
+
+.msgpannel_header_profile_info>p {
+    margin-left: 20px;
+    font-size: 10px;
+    margin-top: -5px;
+}
+
+
+
+
+
+
+.msgpannel_footer {
+    display: flex;
+    align-items: center;
+    height: 40px;
+    padding: 20px;
+    background-color: #ededed;
+
+    border-radius: 0px 0px 30px 0px;
+}
+
+.form {
+    width: 100%;
+}
+
+.input {
+    border: none;
+    width: 100%;
+    height: 30px;
+    border-radius: 30px;
+}
+
+.button {
+    display: none;
+}
+
+
+.msgpannel_chatbox {
+    flex: 1;
+    background-image: url("../../../Resources/Background/background.jpg");
+    background-repeat: repeat;
+    background-position: center;
+    padding: 30px;
+    overflow-y: scroll;
+    height: 300px;
+}

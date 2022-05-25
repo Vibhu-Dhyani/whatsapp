@@ -1,0 +1,13 @@
+.login_box{
+    
+    display: flex;
+    place-items: center;
+    padding: 50px;
+    
+}
+
+.wrapper{
+    display: flex;
+    margin-top: 10%;
+    margin-left: 5%;
+}

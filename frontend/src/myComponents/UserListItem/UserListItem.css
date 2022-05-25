@@ -1,0 +1,29 @@
+
+#wrap{
+    display: flex;
+        
+        align-items: center;
+        margin-left: 10px;
+        padding: 5px;
+        height: 80px;
+        width: 100%;
+        border-bottom: 0.1px solid rgb(209, 204, 204);
+        cursor: pointer;
+       
+    
+
+}
+
+
+
+
+
+#chatdetailinfo{
+    margin-top: 10px;
+        margin-left: 20px;
+        font-family: "Work Sans";
+}
+
+
+
+
