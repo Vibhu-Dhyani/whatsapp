@@ -6,9 +6,9 @@ My first project while learning MERN .
  
 
 
-## Demo
 
-https://whatsapp-clone-mern-vibhu.herokuapp.com/
+
+
 
 
 ## Screenshots
